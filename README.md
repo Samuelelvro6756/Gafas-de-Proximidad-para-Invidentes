@@ -37,7 +37,6 @@ Este proyecto fue desarrollado como una propuesta de innovación tecnológica y 
 # 📑 Índice
 
 - 📖 Descripción
-- 🎥 Video demostrativo
 - ✨ Características
 - ⚙️ Funcionamiento
 - 🛠 Hardware
@@ -64,17 +63,6 @@ Estas alertas se transmiten mediante:
 - 📳 Vibración (Motor vibrador)
 
 Todo el procesamiento es realizado por un **ESP32**, permitiendo una respuesta rápida y un bajo consumo energético.
-
-<br>
-
-# 🎥 Video demostrativo
-
-<p>
-<video width="640" height="360" controls>
-  <source src="Presentación/Presentación.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
-</p>
 
 <br>
 
